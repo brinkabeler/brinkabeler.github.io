@@ -25,12 +25,12 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = []
+mainSections = ["home"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 indexDateFormat = "02.01.2006"
-# listDateFormat = "Jan 2"
-# singleDateFormat = "Mon, Jan 2, 2006"
+# listDateFormat = "02.01.2006"
+singleDateFormat = "02.01.2006"
 
 # Read More links for truncated summaries
 # readMore = true
