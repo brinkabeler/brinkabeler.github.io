@@ -1,4 +1,4 @@
-baseURL = "https://brinkabeler.github.com/brinkabeler"
+baseURL = "https://brinkabeler.github.io/"
 languageCode = "de"
 DefaultContentLanguage = "de"
 title = "Martin Brink-Abeler - Beratung"
@@ -25,7 +25,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = []
+mainSections = ["docs"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 indexDateFormat = "02.01.2006"
