@@ -1,11 +1,8 @@
 +++
 author = "Martin Brink-Abeler"
-title = "Rückschau auf das Barcamp Lübeck 2016"
+title = "Das unentdeckte Land"
 date = "2016-11-22"
 description = "Mit dem neuen Jahr beginne ich beruflich ein neues Kapitel: Ab dem 01.01.2017 bin ich ein selbstständiger Berater."
-tags = [
-""
-]
 +++
 
 Mit dem neuen Jahr beginne ich beruflich ein neues Kapitel: Ab dem 01.01.2017 bin ich ein selbstständiger Berater.

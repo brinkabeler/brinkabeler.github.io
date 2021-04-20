@@ -4,7 +4,7 @@ title = "Rückschau auf das Barcamp Lübeck 2016"
 date = "2016-11-29"
 description = "Als ich dieses Blog eingerichtet habe, hatte sich das Konzept Digitale Transformation noch nicht durchgesetzt – es ging noch um Enterprise 2.0 und Social Collaboration. Nun ist die Digitale Transformation auf jeder Tagesordnung – eine gute Gelegenheit, eine Beschreibung zu liefern..."
 tags = [
-"bchl16", "barcamp", "lübeck", "Digitalisierung" 
+"bchl16", "barcamp", "Lübeck", "Digitalisierung" 
 ]
 +++
 

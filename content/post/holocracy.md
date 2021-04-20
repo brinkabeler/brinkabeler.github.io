@@ -5,7 +5,6 @@ date = "2017-01-19"
 description = "Auf dem Barcamp Hamburg 2016 habe ich zum ersten Mal von Holacracy gehört. Holacracy ist ein innovatives, aber für mich etwas schwer verdauliches Organisationsmodell, dass eparo implementiert hat und auf dem Barcamp präsentierte. Letzte Woche gab es bei eparo einen Schreibtischplatz und Neuigkeiten zur Adaption von Holacracy -eine gute Gelegenheit für eine kurze Vorstellung!"
 tags = [
     "change", "holacracy", "organisationsstruktur", "Veränderung", 
-
 ]
 +++
 
