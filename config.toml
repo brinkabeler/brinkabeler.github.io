@@ -25,7 +25,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["home"]
+mainSections = ["docs"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 indexDateFormat = "02.01.2006"
