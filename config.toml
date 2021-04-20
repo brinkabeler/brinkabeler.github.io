@@ -1,0 +1,126 @@
+baseURL = "https://vernetztesarbeiten.de"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "Martin Brink-Abeler - Beratung"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+title = "Digitalisierung und andere Veränderungen"
+author = "Martin Brink-Abeler"
+#copyright = "2021 - "
+description = "Martin Brink-Abeler - freiberuflicher Berater"
+profilePicture = "images/profile.jpg"
+keywords = "change mangagement, agile, agile coach,  organisationsentwicklung, coaching"
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+mainSections = []
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+# indexDateFormat = "Mon, Jan 2, 2006"
+# listDateFormat = "Jan 2"
+# singleDateFormat = "Mon, Jan 2, 2006"
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+
+[params.simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/brinkabeler/"
+
+[[params.socialIcons]]
+icon = "fab fa-xing"
+title = "Xing"
+url = "https://www.xing.com/profile/Martin_BrinkAbeler"
+
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mba@vernetztesarbeiten.de"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/brinkabeler"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Moin"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Projektarbeit"
+  weight = 200
+  identifier = "Angebot"
+  url = "/#externer-antrieb-für-ihre-projekte"
+
+  [[menu.main]]
+  name = "Coaching & Digtialisierung"
+  weight = 210
+  identifier = "Coaching"
+  url = "/#coaching-potentiale-freisetzen"
+
+  [[menu.main]]
+  name = "Über mich"
+  weight = 300
+  identifier = "about"
+  url = "/#martin-brink-abeler"
+
+  [[menu.main]]
+  name = "Erfahrung"
+  weight = 400
+  identifier = "erfahrung"
+  url = "/#erfahrung"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 500
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Kontakt"
+  weight = 700
+  identifier = "kontakt"
+  url = "/#kontakt-aufnehmen"
+
