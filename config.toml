@@ -31,14 +31,14 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["moin"]
+mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-# indexDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "02.01.2006"
 # listDateFormat = "Jan 2"
 # singleDateFormat = "Mon, Jan 2, 2006"
 # Commento Comments
