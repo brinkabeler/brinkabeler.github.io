@@ -111,7 +111,7 @@ url = "https://twitter.com/brinkabeler"
   name = "Erfahrung"
   weight = 400
   identifier = "erfahrung"
-  url = "/#erfahrung"
+  url = "/#erfahrung-von-überall"
 
   [[menu.main]]
   name = "Blog"
