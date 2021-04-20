@@ -31,7 +31,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = []
+mainSections = ["moin"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -116,8 +116,8 @@ url = "https://twitter.com/brinkabeler"
   [[menu.main]]
   name = "Blog"
   weight = 500
-  identifier = "posts"
-  url = "/post/"
+  identifier = "blog"
+  url = "/blog/"
 
   [[menu.main]]
   name = "Kontakt"
