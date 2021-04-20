@@ -134,6 +134,6 @@ Das Hamburger Start-Up Protonet wurde durch Crowdfunding-Rekorde, Y-Combinator-F
 
 # Kontakt aufnehmen!
 
-Erste Ideen bekommen, Neugierig geworden oder offene Fragen? Nehmen Sie Kontakt auf – über [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [LinkedIn](https://www.linkedin.com/in/brinkabeler), [Twitter](https://www.twitter.com/brinkabeler) oder mit einer Mail: [mba@vernetztesarbeiten.de](mailto:mba@vernetztesarbeiten.de)!
+Erste Ideen bekommen, Neugierig geworden oder offene Fragen? Nehmen Sie Kontakt auf – über [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [LinkedIn](https://www.linkedin.com/in/brinkabeler), [Twitter](https://www.twitter.com/brinkabeler) oder mit einer Mail an [mba@vernetztesarbeiten.de](mailto:mba@vernetztesarbeiten.de)!
 
 
