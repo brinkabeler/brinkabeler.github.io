@@ -3,6 +3,7 @@ languageCode = "de"
 DefaultContentLanguage = "de"
 title = "Martin Brink-Abeler - Beratung"
 theme = "anatole"
+publishDir = "docs/"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
