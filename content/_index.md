@@ -56,7 +56,7 @@ Große Veränderungen bergen Risiken und Transaktionsverluste, denen man vorbeug
 
 ### Pain Points finden und verstehen
 
-Ich helfe, vor jeder Maßnahme den tatsächlichen Bedarf zu identifizieren, damit keine Arbeit am Problem vorbei geht. Dazu gehört die Analyse von Struktur, Kultur, Markt und individuellen Eigenschaften ihres Unternehmens.
+Ich helfe, vor jeder Maßnahme den tatsächlichen Bedarf zu identifizieren, damit keine Arbeit am Problem vorbei geht. Dazu gehört die Analyse von Struktur, Kultur, Markt und individuellen Eigenschaften Ihres Unternehmens.
 
 
 ### Für die Zukunft Planen und Segel setzen
@@ -66,15 +66,15 @@ Ich unterstütze bei der Entwicklung einer passenden Strategie, damit Arbeit auf
 
 ### Talent und Fähigkeiten vor Ort entwickeln
 
-Mich motiviert der Aufbau und die Entwicklung interner Strukturen: Train-the-Trainer, Hilfe zur Selbsthilfe und Befähigung der Teams zur eigenständigkeit.
+Mich motiviert der Aufbau und die Entwicklung interner Strukturen: Train-the-Trainer, Hilfe zur Selbsthilfe und Befähigung der Teams zur Eigenständigkeit.
 
 ![Aus der Deckung kommen](/images/_DSF3249_spacer.jpg#center)
 
 # Coaching: Potentiale freisetzen
 
-Mit der nötigen Stuktur und Orientierung können Sie Chancen ergreifen und die eigenen Probleme lösen. Ich helfe Ihnen, das vorhanden Potential zu entfalten.
+Mit der nötigen Stuktur und Orientierung können Sie Chancen ergreifen und die eigenen Probleme lösen. Ich helfe Ihnen, das vorhandene Potential zu entfalten.
 
-Mit bewährten Coaching-Methoden helfe ich Ihnen und Ihrem Team, ihre Themen zu strukturieren und sich Orientierung zu verschaffen. Gemeinsam identifizieren wir Barrieren und entwickeln Strategien, um dem Potential den Weg frei zu räumen.
+Mit bewährten Coaching-Methoden helfe ich Ihnen und Ihrem Team, Ihre Themen zu strukturieren und sich Orientierung zu verschaffen. Gemeinsam identifizieren wir Barrieren und entwickeln Strategien, um dem Potential den Weg frei zu räumen.
 
 Das Resultat ist aufgelöster Frust, neue Perspektiven und effektivere Arbeit. Und keine Störungen im Flow. 
 
