@@ -103,7 +103,7 @@ Sie finden mich auf [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [Li
 
 # Erfahrung von überall
 
-Meine Erfahrung setzt sich vielfältig zusammen und kommt sogar aus einem Y-Combinator-Start-Up und Bundesbehören.
+Meine Erfahrung setzt sich vielfältig zusammen und stammt unter anderem aus einem Y-Combinator-Start-Up und Bundesbehören.
 
 ### Social Intranet des Bundes - Agile Unterstützung
 
@@ -121,13 +121,13 @@ Im Rahmen eines großen Change-Prozesses hat ein privatisierter Energieversorger
 
 Tätigkeit: Projektmanagement, Strategieentwicklung, Durchführung von Workshops und Veranstaltungen
 
-Im Zuge der Umstellung auf eine Matrix-Organisation hat ein die Lufthansa die Finance-Abteilungen der internationalen Tochterfirmen der Gruppen-CFO unterstellt. Über ein Jahr habe ich dafür die Entwicklung einer neuen Identität und Strategie für die übergreifende Finance-Funktion beraten.
+Im Zuge der Umstellung auf eine Matrix-Organisation hat Lufthansa die Finance-Abteilungen der internationalen Tochterfirmen der Gruppen-CFO unterstellt. Über ein Jahr habe ich dafür die Entwicklung einer neuen Identität und Strategie für die übergreifende Finance-Funktion beraten.
 
 ### Hamburgs Crowdfunding-Start-Up
 
 Tätigkeit: Abstimmung von Support und Softwareentwicklung, Qualitätssicherung
 
-Das Hamburger Start-Up Protonet wurde durch Crowdfunding-Rekorde, Y-Combinator-Funding und die schicken organgenen Server bekannt. In meiner Zeit bei Protonet habe ich viel Nützliches gelernt, beobachtet und auch selbst in den bunten Servern herumgestochert.
+Das Hamburger Start-Up Protonet wurde durch Crowdfunding-Rekorde, Y-Combinator-Funding und die schicken orangenen Server bekannt. In meiner Zeit bei Protonet habe ich viel Nützliches gelernt, beobachtet und auch selbst in den bunten Servern herumgestochert.
 
 ![Auf Kurs gehen im Hamburger Hafen](/images/_DSF3342_spacer.jpg#center)
 
