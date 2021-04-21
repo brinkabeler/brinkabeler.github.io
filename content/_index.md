@@ -29,7 +29,7 @@ Don't forget to check the README.md file!
 
 Seit über sechs Jahren biete ich techniknahe Beratung und Begleitung in der digitalen Zusammenarbeit, Agilität, im Change Management und der Digitalisierung. Neben der Arbeit in Projekten und Change-Herausforderungen biete ich Coaching für Teams und Einzelpersonen an.
 
-Meine [Erfahrung]({{< ref "/#erfahrung" >}} "Martin Brink-Abeler - Erfahrung") bringe aus der Management-Beratung, Collaboartion-Projekten bei deutschen Konzernen, dem Start-Up-Leben und Millionenprojekten bei Bundesbehörden mit.
+Meine [Erfahrung]("/#erfahrung") bringe aus der Management-Beratung, Collaboartion-Projekten bei deutschen Konzernen, dem Start-Up-Leben und Millionenprojekten bei Bundesbehörden mit.
 
 Ich freue mich über eine [Nachricht]("/#kontakt-aufnehmen") und lade Sie ein, sich im Weiteren einen Eindruck von meinem Angebot zu machen!
 
@@ -76,7 +76,7 @@ Mit der nötigen Stuktur und Orientierung können Sie Chancen ergreifen und die 
 
 Mit bewährten Coaching-Methoden helfe ich Ihnen und Ihrem Team, Ihre Themen zu strukturieren und sich Orientierung zu verschaffen. Gemeinsam identifizieren wir Barrieren und entwickeln Strategien, um dem Potential den Weg frei zu räumen.
 
-Das Resultat ist aufgelöster Frust, neue Perspektiven und effektivere Arbeit. Und keine Störungen im Flow. 
+Daraus folgen aufgelöster Frust, neue Perspektiven und effektivere Arbeit. Und keine Störungen im Flow. 
 
 ![Aufbruchsstimmung am Hamburger Hafen](/images/_DSF3809_spacer.jpg#center)
 
@@ -84,7 +84,7 @@ Das Resultat ist aufgelöster Frust, neue Perspektiven und effektivere Arbeit. U
 
 Digitale Projekte und Veränderungen realisieren ist komplex und mit vielen Herausforderungen und Widerständen verbunden – aber mit der richtigen Beratung finden Sie schnell Orientierung und die passende Strategie. Geht es um die richtigen Tools, die Herangehensweise, die Arbeit, die Organisationsstruktur? Wo fängt man an? Und wie digital muss Ihre Organisation sein?
 
-Für diese Fragen ist es sinnvoll, mit einem gemischten Team aus der Organisation zuerst Orientierung zu finden. Ein Workshop reicht dafür, Inhouse oder an einem passenden Rückzugsort abseits des Alltags. Dieser erste Schritt ist nicht schwer und mit der richtigen Beratung gelingt der Start in die richtige Richtung.
+Für diese Fragen ist es sinnvoll, mit einem gemischten Team aus der Organisation zuerst Orientierung zu finden. Ein Workshop reicht dafür, Inhouse oder an einem passenden Rückzugsort abseits des Alltags. Dieser erste Schritt ist nicht schwer und mit der meiner Beratung gelingt der Start in die richtige Richtung.
 
 
 # Martin Brink-Abeler
