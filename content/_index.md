@@ -1,7 +1,7 @@
----
-author: Martin Brink-Abeler
-contact: false
----
++++
+author = "Martin Brink-Abeler"
+title = "Berater für Digitalisierung und andere Veränderungen"
++++
 
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
@@ -70,7 +70,7 @@ Mich motiviert der Aufbau und die Entwicklung interner Strukturen: Train-the-Tra
 
 ![Aus der Deckung kommen](/images/_DSF3249_spacer.jpg#center)
 
-# Coaching: Potentiale freisetzen
+# Coaching: Hürden nehmen
 
 Mit der nötigen Stuktur und Orientierung können Sie Chancen ergreifen und die eigenen Probleme lösen. Ich helfe Ihnen, das vorhandene Potential zu entfalten.
 

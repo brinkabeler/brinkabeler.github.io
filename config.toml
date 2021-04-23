@@ -1,7 +1,7 @@
 baseURL = "https://vernetztesarbeiten.de"
 languageCode = "de"
 DefaultContentLanguage = "de"
-title = "Martin Brink-Abeler - Beratung"
+title = "Martin Brink-Abeler - Berater für Digitalisierung und andere Veränderungen"
 theme = "anatole"
 publishDir = "docs/"
 summarylength = 10
@@ -29,7 +29,7 @@ mainSections = ["docs"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 indexDateFormat = "02.01.2006"
-# listDateFormat = "02.01.2006"
+listDateFormat = "02.01."
 singleDateFormat = "02.01.2006"
 
 # Read More links for truncated summaries
