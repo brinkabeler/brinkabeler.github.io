@@ -24,4 +24,4 @@ Zu den größten Herausforderungen für eine Unternehmensleitung zählt es, sich
 
 Aus einer gemeinsamen Strategie ergeben sich nützliche und sinnvolle Maßnahmen, denn sie gibt einen Handlungsrahmen für Aktionen vor, die zur Ausrichtung eines Unternehmens passen. Auch die Tragfähigkeit eines Geschäftsmodells lässt sich wesentlich leichter prüfen, wenn eine solide Strategie vorhanden ist.
 
-Im nächsten Beitrag geht es mit den Bausteinen der Strategieentwicklung weiter. Bis dahin: Werft einen Blick auf die Strategie in euren Unternehmen. Führt sie euch in die richtige Richtung? Ich freue mich über eure [Nachrichten!]("/#kontakt-aufnehmen")
+Im nächsten Beitrag geht es mit den Bausteinen der Strategieentwicklung weiter. Bis dahin: Werft einen Blick auf die Strateg/ie in euren Unternehmen. Führt sie euch in die richtige Richtung? Ich freue mich über eure [Nachrichten!](/#kontakt-aufnehmen)

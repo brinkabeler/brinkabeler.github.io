@@ -29,7 +29,7 @@ Don't forget to check the README.md file!
 
 Seit über sechs Jahren biete ich techniknahe Beratung und Begleitung in der digitalen Zusammenarbeit, Agilität, im Change Management und der Digitalisierung. Neben der Arbeit in Projekten und Change-Herausforderungen biete ich Coaching für Teams und Einzelpersonen an.
 
-Ich freue mich über eine [Nachricht]("/#kontakt-aufnehmen") und lade Sie ein, sich im Weiteren einen Eindruck von meinem Angebot zu machen!
+Ich freue mich über eine [Nachricht](/#kontakt-aufnehmen) und lade Sie ein, sich im Weiteren einen Eindruck von meinem Angebot zu machen!
 
 
 
@@ -134,4 +134,4 @@ Das Hamburger Start-Up Protonet wurde durch Crowdfunding-Rekorde, Y-Combinator-F
 
 Erste Ideen bekommen, Neugierig geworden oder offene Fragen? Nehmen Sie Kontakt auf – über [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [LinkedIn](https://www.linkedin.com/in/brinkabeler), [Twitter](https://www.twitter.com/brinkabeler) oder mit einer Mail an [mba@vernetztesarbeiten.de](mailto:mba@vernetztesarbeiten.de)!
 
-
+![Die Elbphilharmonie und der Hamburger Hafen](/images/_DSF3636_header.jpg#center)

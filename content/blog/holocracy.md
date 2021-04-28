@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Auf dem [Barcamp Hamburg 2016](http://vernetztesarbeiten.de/2016/11/13/rueckschau-auf-das-barcamp-hamburg-2016/) habe ich zum ersten Mal von Holacracy gehört. Holacracy ist ein innovatives, aber für mich etwas schwer verdauliches Organisationsmodell, dass eparo implementiert hat und auf dem Barcamp präsentierte. Letzte Woche gab es bei eparo einen Schreibtischplatz und Neuigkeiten zur Adaption von Holacracy -eine gute Gelegenheit für eine kurze Vorstellung!
+Auf dem [Barcamp Hamburg 2016](/blog/bchh16/) habe ich zum ersten Mal von Holacracy gehört. Holacracy ist ein innovatives, aber für mich etwas schwer verdauliches Organisationsmodell, dass eparo implementiert hat und auf dem Barcamp präsentierte. Letzte Woche gab es bei eparo einen Schreibtischplatz und Neuigkeiten zur Adaption von Holacracy -eine gute Gelegenheit für eine kurze Vorstellung!
 <!--more-->
 
 Holacracy organisiert Verantwortlichkeiten und Rollen durch in sich verschachtelte Kreise, denen Mitarbeitende beitreten können. Jeder Kreis hat eine verantwortliche Person, den Lead Link. Es gibt also eine Hierarchie in diesem Peer-to-peer-Betriebssystem, wie es sein Erfinder nennt. Angepriesene Vorteile sind erhöhte Transparenz, Verantwortlichkeit, Agilität und laufende Optimierung der Organisationsstruktur. Dazu sollen wiederum transparente Regeln und regelmäßige, straffe Meetings mit harten Regeln führen. In der Theorie wird so Entscheidungsgewalt verteilt und alle Mitarbeiter haben die Möglichkeit, eine Führungsrolle und die zugehörige Entscheidungshoheit einzunehmen. Das klingt soweit verlockend.

@@ -38,7 +38,7 @@ In einigen Unternehmen ist durchaus die Erkenntnis gewachsen, dass die Digitalis
 
 Die lernende Organisation beschrieb 1990 schon Qualitäten, die man sich heute von der einer digitalen Transformation erhofft: Vernetzung, Resilienz, geteilte Vision, Exzellenz (*Personal Mastery*) und ich behaupte: sogar Prototyping. All das ist heute noch wichtiger als damals und kaum eine dieser Qualitäten ist in den meisten Unternehmen realisiert. Wir haben heute aber bessere Mittel, eine Organisation zu schaffen, die ständig lernt und sich anpasst.
 
-Die [Vision](https://vernetztesarbeiten.de/2017/02/07/strategien-und-wo-man-sie-findet/) ist eine Veränderung als laufender Entwicklungsprozess. Das bedeutet für Mitarbeiter, laufend gefördert und gefordert zu werden, während Zeit und Raum für eigene Reflektion und Innovation geschaffen wird. Es bedeutet für die Führung, die nötigen Bedingungen zu schaffen und zu erweitern.
+Die [Vision](/blog/strategien/) ist eine Veränderung als laufender Entwicklungsprozess. Das bedeutet für Mitarbeiter, laufend gefördert und gefordert zu werden, während Zeit und Raum für eigene Reflektion und Innovation geschaffen wird. Es bedeutet für die Führung, die nötigen Bedingungen zu schaffen und zu erweitern.
 
 Eine lernende Organisation klingt für mich nach etwas, an und in dem ich arbeiten möchte. Das darf auch gerne eine digitale Transformation beinhalten.
 

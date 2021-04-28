@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-In einem Projekt brauchte ich eine Methode, um bei der Produktentwicklung eines Chatbots die Ziele im Blick zu behalten. Die Lösung war Objectives and Key Results, ein logischer Schritt als Fortführung der [Strategieentwicklung](http://vernetztesarbeiten.de/2017/02/07/strategien-und-wo-man-sie-findet/). Nur in Deutschland scheint die Methode kaum bekannt.
+In einem Projekt brauchte ich eine Methode, um bei der Produktentwicklung eines Chatbots die Ziele im Blick zu behalten. Die Lösung war Objectives and Key Results, ein logischer Schritt als Fortführung der [Strategieentwicklung](/blog/strategien/). Nur in Deutschland scheint die Methode kaum bekannt.
 <!--more-->
 
 Im Alltag das Wesentliche im Blick zu behalten und sich nicht in weniger entscheidenden Aufgaben zu verzetteln ist nicht einfach. Objectives and Key Results sind eine Steuerungsmethode, die hilft. Ob Silicon-Valley-StartUps, Google, Siemens, Intel oder bei dem Brauereikonzern InBev – OKRs sind weit verbreitet und hoch gelobt. Wie funktionieren sie?
