@@ -15,6 +15,21 @@
     margin: 0;
 }
 
+.post h1 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.post h2 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.post h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
 .post .post-content h1 {
     font-size: 22px;
     font-weight: 600;
