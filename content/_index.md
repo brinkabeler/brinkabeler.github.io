@@ -23,18 +23,16 @@ Don't forget to check the README.md file!
 ```
 
 -->
-![spacer](/images/_DSF3636_header.jpg#center)
+![Die Elbphilharmonie und der Hamburger Hafen](/images/_DSF3636_header.jpg#center)
 
 # Moin!
 
 Seit über sechs Jahren biete ich techniknahe Beratung und Begleitung in der digitalen Zusammenarbeit, Agilität, im Change Management und der Digitalisierung. Neben der Arbeit in Projekten und Change-Herausforderungen biete ich Coaching für Teams und Einzelpersonen an.
 
-Meine [Erfahrung]("/#erfahrung") bringe aus der Management-Beratung, Collaboartion-Projekten bei deutschen Konzernen, dem Start-Up-Leben und Millionenprojekten bei Bundesbehörden mit.
-
 Ich freue mich über eine [Nachricht]("/#kontakt-aufnehmen") und lade Sie ein, sich im Weiteren einen Eindruck von meinem Angebot zu machen!
 
 
-![spacer](/images/_DSF3641_spacer.jpg#center)
+
 
 # Externer Antrieb für Ihre Projekte
 
@@ -86,7 +84,7 @@ Digitale Projekte und Veränderungen realisieren ist komplex und mit vielen Hera
 
 Für diese Fragen ist es sinnvoll, mit einem gemischten Team aus der Organisation zuerst Orientierung zu finden. Ein Workshop reicht dafür, Inhouse oder an einem passenden Rückzugsort abseits des Alltags. Dieser erste Schritt ist nicht schwer und mit der meiner Beratung gelingt der Start in die richtige Richtung.
 
-
+![Die Elbkräne und ein Schlepper](/images/_DSF3641_spacer.jpg#center)
 # Martin Brink-Abeler
 
 Erfahrung in Beratung und Change-Management verbinde ich mit Begeisterung für Technologie. 

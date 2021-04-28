@@ -286,7 +286,6 @@ a:active {
 }
 
 .sidebar .logo-title .description {
-    font-size: 16px;
     margin: 0 1em;
 }
 
@@ -300,7 +299,7 @@ a:active {
 }
 
 .sidebar .logo-title .title h3 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 2rem;
     font-weight: bold;
     letter-spacing: 2px;

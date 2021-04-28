@@ -14,15 +14,20 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Digitalisierung und andere Veränderungen"
+title = """
+Martin Brink-Abeler
+"""
 author = "Martin Brink-Abeler"
 #copyright = "2021 - "
-description = "Martin Brink-Abeler - freiberuflicher Berater"
+description = """
+Beratung für Zusammenarbeit,
+Digitalisierung und andere Veränderungen
+"""
 profilePicture = "images/profile.jpg"
 keywords = "change mangagement, agile, agile coach,  organisationsentwicklung, coaching"
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["docs"]
