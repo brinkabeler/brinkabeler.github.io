@@ -87,7 +87,7 @@ url = "https://twitter.com/brinkabeler"
   url = "/#externer-antrieb-für-ihre-projekte"
 
   [[menu.main]]
-  name = "Coaching & Digtialisierung"
+  name = "Coaching & Digitalisierung"
   weight = 210
   identifier = "Coaching"
   url = "/#coaching-potentiale-freisetzen"
