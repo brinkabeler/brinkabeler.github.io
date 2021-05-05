@@ -1,6 +1,10 @@
 +++
 author = "Martin Brink-Abeler"
 title = "Berater für Digitalisierung und andere Veränderungen"
+tags = [
+    "thumbnail",
+]
+thumbnail= "images/_DSF3636_header.jpg"
 +++
 
 ## Moin!
