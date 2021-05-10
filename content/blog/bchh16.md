@@ -21,7 +21,8 @@ Bei meiner Session ging es um den Zusammenhang von digitaler Transformation, dig
 
 Aber auch meine Wortschöpfungen fanden Anklang:
 
-{{< twitter 797442230596280321 >}}
+	Mein Wort des Tages "Organisatorische Entkalkung". Als Therapieform für veraltete Geschäftsmodelle. #bchh16
+	— Natascha Schwabauer (@lasstmichdurch) November 12, 2016
 
 Was mich besonders gefreut hat: Die Session hat zu reger Diskussion geführt und es gab unter den Teilnehmern auch einige mit eigenen Erfahrungen aus laufenden Transformationen.
 
