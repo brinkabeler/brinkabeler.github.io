@@ -3,7 +3,4 @@
 {{- template "_internal/google_analytics_async.html" . -}}
 {{- if and (hugo.IsProduction) (.Site.Params.gtagId) -}}
     {{ partial "google-analytics-gtag-async.html" . }}
-    <div class="footer">
-        <div class="by_farbox">&copy; {{ .Site.Params.author }} {{ if isset .Site.Params "copyright" }} {{ .Site.Params.copyright }} {{ else }} {{ now.Format "2006"}} {{end}}<br><a href="/impressum/">Impressum und Datenschutzerklärung</a></div>
-    </div>
 {{- end -}}

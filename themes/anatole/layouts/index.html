@@ -54,4 +54,7 @@
     <div class="pagination">
         {{ template "_internal/pagination.html" . }}
     </div>
+    <div class="footer">
+        <div class="by_farbox">&copy; {{ .Site.Params.author }} {{ if isset .Site.Params "copyright" }} {{ .Site.Params.copyright }} {{ else }} {{ now.Format "2006"}} {{end}}<br><a href="/impressum/">Impressum und Datenschutzerklärung</a></div>
+    </div>
 {{ end }}
