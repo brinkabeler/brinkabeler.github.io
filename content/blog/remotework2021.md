@@ -4,8 +4,9 @@ title = "Rücksturz in die Büros"
 date = "2021-06-09"
 description = "Mit dem nahenden Ende der Corona-Pandemie zeichnen sich zwei klare und gegensätzliche Trends ab: Der Drang zurück ins Büro und die Verteidigung der gewonnen Freiheit und Flexibilität durch das Homeoffice. Im Hintergrund bahnt sich eine Welle von Jobwechseln durch Arbeitnehmende an, die während der Pandemie die Füße still gehalten und nur auf ein stabileres Klima gewartet haben, um eine bessere Arbeitssituation zu finden."
 tags = [
-"Remote Work", "Homeoffice", "Corona", "kanban", "lernende Organisation", "technical debt", "Apple",
+"Remote Work", "Homeoffice", "Corona", "kanban", "lernende Organisation", "technical debt", "Apple", "thumbnail",
 ]
+thumbnail= "images/DSCF1594_spacer.jpg"
 +++
 
 Mit dem nahenden Ende der Corona-Pandemie zeichnen sich zwei klare und gegensätzliche Trends ab: Der Drang zurück ins Büro und die Verteidigung der gewonnen Freiheit und Flexibilität durch das Homeoffice. Im Hintergrund bahnt sich eine Welle von Jobwechseln durch Arbeitnehmende an, die während der Pandemie die Füße still gehalten und nur auf ein stabileres Klima gewartet haben, um eine bessere Arbeitssituation zu finden.
