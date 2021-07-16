@@ -17,8 +17,9 @@ pygmentsCodefencesGuessSyntax = true
 title = """
 Martin Brink-Abeler
 """
-author = "Martin Brink-Abeler"
-#copyright = "2021 - "
+author = """Martin Brink-Abeler"""
+copyright = """Martin Brink-Abeler 2021 - [Datenschutz und Impressum](/impressum)
+"""
 description = """
 Beratung für Zusammenarbeit,
 Digitalisierung und andere Veränderungen
