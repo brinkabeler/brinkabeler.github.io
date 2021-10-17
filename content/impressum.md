@@ -10,18 +10,24 @@ contact: false
 Angaben gemäß § 5 TMG:
 
 Martin Brink-Abeler
+
 Martin Brink-Abeler – Vernetztes Arbeiten
+
 Seilerstr. 40
+
 20359 Hamburg
-Kontakt:
+
+# Kontakt:
 
 E-Mail: mba@vernetztesarbeiten.de
-Umsatzsteuer-ID:
+
+# Umsatzsteuer-ID:
 
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
 DE308700115
 
 Quelle: https://www.e-recht24.de
+
 Haftungsausschluss (Disclaimer)
 
 # Haftung für Inhalte
