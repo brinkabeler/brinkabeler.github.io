@@ -11,110 +11,43 @@ thumbnail= "images/_DSF3636_header.jpg"
 
 ![Die Elbphilharmonie und der Hamburger Hafen](/images/_DSF3636_header.jpg#center)
 
-Seit über sechs Jahren biete ich techniknahe Beratung und Begleitung in der digitalen Zusammenarbeit, Agilität, im Change Management und der Digitalisierung. Neben der Arbeit in Projekten und Change-Herausforderungen biete ich Coaching für Teams und Einzelpersonen an.
+Ich berate und begleite Teams und Unternehmen in Projekten und bei nachhaltigen Veränderungen rund um die digitale Transformation. Dazu bringe ich Erfahrung aus Projekten bei deutschen Konzernen, Bundesbehörden und aus dem Start-Up-Leben mit.
+
+Als interdisziplinär ausgebildeter Berater unterstütze ich bei **Projektmanagement** und **Organisationsentwicklung** durch meine Arbeitsweise, die nicht durch Trends oder Dogmen geprägt ist. Mein Master in **Innovations- und Change Management** gibt mir eine wirtschaftliche Perspektive auf technische und organisatorische Herausforderungen. Durch mein Faible für **Digitalisierung** und meine Einsätze in der Nähe von und mit IT-Abteilungen haben sich die **agilen Methoden** als eine organische Ergänzung meiner Methoden gefunden. Hier entsteht die Grundlage für innovative und digitale Produkte, die ihre Organisation voran bringen.
+Diesen ganzheitlichen Blick bringe ich in meine Beratung ein.
 
 Ich freue mich über eine [Nachricht](/#kontakt-aufnehmen) und lade Sie ein, sich im Weiteren einen Eindruck von meinem Angebot zu machen!
 
-
-
-# Externer Antrieb für Ihre Projekte
-
-Ich unterstütze Projekte und Veränderungen durch Beratung und Begleitung in der digitalen Zusammenarbeit, Agilität, im Change Management und bei der Digitalisierung. Um Projekte auf Erfolgskurs zu bringen, nehme ich verschiedene Rollen ein - vom agilen Coach bis hin zum Berater für interne Change Agents.
-
-### Zusammenarbeit modern und angenehm gestalten
-Ich helfe bei der Modernisierung von Zusammenarbeit durch Methoden und Software, von der Auswahl der Softwarelösung bis zur abgeschlossenen Einführung. Dabei helfen meine Erfahrung und mein Wissen über agile Methoden und Führung. Die Kommunikation über Hierarchiebenen hinweg und in Teams unterstütze ich durch Coaching und Mediation.
-
-
-
-### Strukturen und Durchblick schaffen
-
-Das stetige Aufarbeiten von Orientierung und Vernetzung für die Bewältigung von Komplexität ist heute eine zentrale Aufgabe für selbstständige Teams und Führungsrollen.
-
-![spacer](/images/_DSF3703_spacer.jpg#center)
-# Veränderungen erfolgreich gestalten
-
-Große Veränderungen bergen Risiken und Transaktionsverluste, denen man vorbeugen kann. Einem erfolreich angewandten Change Management gehen Bedarfsanalyse, Projektplanung, Projektmanagement und Change-Begleitung voraus. Ich helfe bei der Planung von Kommunikation, der Entwicklung von Kulturmaßnahmen mit dem Ziel eine Akzeptanz zu schaffen und den Umgang mit Widerständen zu optimieren. 
-
-### Pain Points finden und verstehen
-
-Ich helfe, vor jeder Maßnahme den tatsächlichen Bedarf zu identifizieren, damit keine Arbeit am Problem vorbei geht. Dazu gehört die Analyse von Struktur, Kultur, Markt und individuellen Eigenschaften Ihres Unternehmens.
-
-
-### Für die Zukunft Planen und Segel setzen
-
-Ich unterstütze bei der Entwicklung einer passenden Strategie, damit Arbeit aufeinander abgestimmt das gleiche Ziel verfolgt und Kommunikation effektiver verläuft. Dazu kann auch die Prüfung von Geschäftsmodellen gehören. Digitale Themen und Agilität sind Bestandteile der Strategieberatung.
-
-
-### Talent und Fähigkeiten vor Ort entwickeln
-
-Mich motiviert der Aufbau und die Entwicklung interner Strukturen: Train-the-Trainer, Hilfe zur Selbsthilfe und Befähigung der Teams zur Eigenständigkeit.
-
-![Aus der Deckung kommen](/images/_DSF3249_spacer.jpg#center)
-
-# Coaching: Hürden nehmen
-
-Mit der nötigen Stuktur und Orientierung können Sie Chancen ergreifen und die eigenen Probleme lösen. Ich helfe Ihnen, das vorhandene Potential zu entfalten.
-
-Mit bewährten Coaching-Methoden helfe ich Ihnen und Ihrem Team, Ihre Themen zu strukturieren und sich Orientierung zu verschaffen. Gemeinsam identifizieren wir Barrieren und entwickeln Strategien, um dem Potential den Weg frei zu räumen.
-
-Daraus folgen aufgelöster Frust, neue Perspektiven und effektivere Arbeit. Und keine Störungen im Flow. 
-
 ![Aufbruchsstimmung am Hamburger Hafen](/images/_DSF3809_spacer.jpg#center)
 
-# Digitalisierung: Schritte in die Zukunft
+# Bedarfe identifizieren und bedienen
 
-Digitale Projekte und Veränderungen realisieren ist komplex und mit vielen Herausforderungen und Widerständen verbunden – aber mit der richtigen Beratung finden Sie schnell Orientierung und die passende Strategie. Geht es um die richtigen Tools, die Herangehensweise, die Arbeit, die Organisationsstruktur? Wo fängt man an? Und wie digital muss Ihre Organisation sein?
+Oft fülle ich in Projekten diese Rollen aus oder assistiere ihnen:
 
-Für diese Fragen ist es sinnvoll, mit einem gemischten Team aus der Organisation zuerst Orientierung zu finden. Ein Workshop reicht dafür, Inhouse oder an einem passenden Rückzugsort abseits des Alltags. Dieser erste Schritt ist nicht schwer und mit der meiner Beratung gelingt der Start in die richtige Richtung.
+## Agile Coach
+Einführung von agilen Strukturen und Methoden, Leitung von agilen Meetings (Scrum, Kanban, Lean, angepasst auf eigene Bedürfnisse), Betreuung von Teams und laufende Weiterentwicklung der agilen Arbeitsweise
+
+## Veränderungs- und Projektmanagement als Berater und Begleiter
+Projektplanung, Unterstützung der Projektleitung, Überwindung von Hindernissen im Projekt, Kontrolle des Projektfortschritts, Kulturentwicklung, Akzeptanzmanagement
+
+## Digitalisierung und moderne Zusammenarbeit
+Software-Einführungen, Agile Methoden und Führung, digitale Zusammenarbeit, Coaching und Mediation, digitale Themen und Transformation
+
+
+![spacer](/images/_DSF3703_spacer.jpg#center)
+
+## Inhaltliche Themen
+Immer wieder habe ich mich mit großen Interesse in Projekten mit Technologien und IT-Infrastruktur beschäftigt, die die Grundlage für große Kollaborations- und Wissensmanagement-Plattformen bilden. Diese technischen Grundlagen bieten Teams und Organisationen die Grundlage für moderne Methoden und agile Zusammenarbeit bereit. Sie machen die Veränderungen in großen Unternehmen möglich und befähigen die Organisationsentwicklung, die Unternehmenskultur und -struktur weiter zu entwickeln. 
+Im großen Rahmen haben mich diese Themen auch im Bereich des  e-Government beschäftigt, wenn es um Open Data, digitale Souveränität und die Umsetzung 
+
 
 ![Die Elbkräne und ein Schlepper](/images/_DSF3641_spacer.jpg#center)
-# Martin Brink-Abeler
-
-Erfahrung in Beratung und Change-Management verbinde ich mit Begeisterung für Technologie. 
-
-Nach dem Studium in Freiburg (Instructional Design und Kognitionswissenschaft) und Nordhausen (Innovations– und Change-Management) habe ich in Hamburg fest gemacht.
-
-Als Berater für ein IT-Systemhaus und eine Managementberatung habe ich Kunden in verschiedenen Projekten unterstützt. Veränderungsprojekte habe ich in einem Luftfahrtkonzern, einem Logistikkonzern und bei einem Energieversorger begleitet. Geschichten aus dem Start-Up-Leben gibt es bei mir aus erster Hand. Zuletzt war ich in Bundesbehörden unterwegs.
-
-Für mich bedeutet Erfolg im digitalen Zeitalter, die eigene Arbeit als Lernen für eine laufende Weiterentwicklung zu verstehen. Ich helfe bei Projekten und großen Veränderungen um die Strukturen und Arbeitsweisen in Ihrem Unternehmen für die neuen Herausforderungen einer vernetzten Welt zu stärken.
-
-Sie finden mich auf [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [LinkedIn](https://www.linkedin.com/in/brinkabeler) und [Twitter](https://www.twitter.com/brinkabeler). Ich freue mich auf Ihre Nachricht!
 
 ![Neue Perspektiven sind immer hilfreich](/images/DSCF1594_spacer.jpg#center)
-
-# Erfahrung von überall
-
-Meine Erfahrung setzt sich vielfältig zusammen und stammt unter anderem aus einem Y-Combinator-Start-Up und Bundesbehören.
-
-### Social Intranet des Bundes - Agile Unterstützung
-
-Tätigkeit: Einführung und Etablierung von Projektwerkzeugen wie JIRA und Methoden wie agile Zusammarbeit als Agiler Coach
-
-Das Projekt Social Intranet des Bundes (SIB) hat als eines der ersten Projekte in der Bundesbehördenwelt auf agile Ansätze und Methoden gesetzt und diese mit modernen Tools unterstützt und etabliert. Bei der Auswahl und Einführung dieser Methoden und Werkzeuge konnte ich das Projekt unterstützen und über drei Jahre nachhaltig die Projektmitglieder beim Ausbau ihrer Projekt- und Toolkompetenzen unterstützen.
-
-### Kulturveränderung und digitale Zusammenarbeit
-
-Tätigkeit: Projektmanagement, Beratung, Schulung der internen Organisationsentwicklung
-
-Im Rahmen eines großen Change-Prozesses hat ein privatisierter Energieversorger verstärkt auf Social Media und digitale Zusammenarbeit gesetzt. Über ein Jahr habe ich dabei zur technologischen und kulturellen Veränderung beraten, mit der internen Organisationsentwicklung agile Methoden eingeführt und Pilotgruppen begleitet, die Einführung von Austauschformaten für Best Practices unterstützt und das Kommunikationskonzept entwickelt und umgesetzt.
-
-### Strategieentwicklung zur Unterstützung einer Strukurveränderung
-
-Tätigkeit: Projektmanagement, Strategieentwicklung, Durchführung von Workshops und Veranstaltungen
-
-Im Zuge der Umstellung auf eine Matrix-Organisation hat Lufthansa die Finance-Abteilungen der internationalen Tochterfirmen der Gruppen-CFO unterstellt. Über ein Jahr habe ich dafür die Entwicklung einer neuen Identität und Strategie für die übergreifende Finance-Funktion beraten.
-
-### Hamburgs Crowdfunding-Start-Up
-
-Tätigkeit: Abstimmung von Support und Softwareentwicklung, Qualitätssicherung
-
-Das Hamburger Start-Up Protonet wurde durch Crowdfunding-Rekorde, Y-Combinator-Funding und die schicken orangenen Server bekannt. In meiner Zeit bei Protonet habe ich viel Nützliches gelernt, beobachtet und auch selbst in den bunten Servern herumgestochert.
-
-![Auf Kurs gehen im Hamburger Hafen](/images/_DSF3342_spacer.jpg#center)
 
 
 # Kontakt aufnehmen!
 
 Erste Ideen bekommen, Neugierig geworden oder offene Fragen? Nehmen Sie Kontakt auf – über [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [LinkedIn](https://www.linkedin.com/in/brinkabeler), [Twitter](https://www.twitter.com/brinkabeler) oder mit einer Mail an [mba@vernetztesarbeiten.de](mailto:mba@vernetztesarbeiten.de)!
 
-![Die Elbphilharmonie und der Hamburger Hafen](/images/_DSF3636_header.jpg#center)
+![Auf Kurs gehen im Hamburger Hafen](/images/_DSF3342_spacer.jpg#center)
