@@ -82,30 +82,6 @@ url = "https://twitter.com/brinkabeler"
   url = "/"
 
   [[menu.main]]
-  name = "Projektarbeit"
-  weight = 200
-  identifier = "Angebot"
-  url = "/#externer-antrieb-für-ihre-projekte"
-
-  [[menu.main]]
-  name = "Coaching & Digitalisierung"
-  weight = 210
-  identifier = "Coaching"
-  url = "/#coaching-hürden-nehmen"
-
-  [[menu.main]]
-  name = "Über mich"
-  weight = 300
-  identifier = "about"
-  url = "/#martin-brink-abeler"
-
-  [[menu.main]]
-  name = "Erfahrung"
-  weight = 400
-  identifier = "erfahrung"
-  url = "/#erfahrung-von-überall"
-
-  [[menu.main]]
   name = "Blog"
   weight = 500
   identifier = "blog"
