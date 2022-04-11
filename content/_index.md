@@ -23,12 +23,15 @@ Wenn Sie das Gefühl haben, ich könnte Sie unterstützen freue ich mich über e
 # Meine üblichen Arbeitsbereiche
 
 **Agile Methoden**
+
 Einführung von agilen Strukturen und Methoden, Leitung von agilen Meetings (Scrum, Kanban, Lean, angepasst auf eigene Bedürfnisse), Betreuung von Teams und laufende Weiterentwicklung der agilen Arbeitsweise
 
 **Veränderungs- und Projektmanagement**
+
 Projektplanung, Unterstützung der Projektleitung, Überwindung von Hindernissen im Projekt, Kontrolle des Projektfortschritts, Kulturentwicklung, Akzeptanzmanagement
 
 **Digitalisierung und moderne Zusammenarbeit**
+
 Software-Einführungen, Agile Methoden und Führung, digitale Zusammenarbeit, Coaching und Mediation, digitale Themen und Transformation
 
 
