@@ -61,15 +61,10 @@ title = "Xing"
 url = "https://www.xing.com/profile/Martin_BrinkAbeler"
 
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:mba@vernetztesarbeiten.de"
-
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "twitter"
-url = "https://twitter.com/brinkabeler"
+# [[params.socialIcons]]
+# icon = "fas fa-envelope"
+# title = "e-mail"
+# url = "mailto:mba@vernetztesarbeiten.de"
 
 ## Menu items
 
