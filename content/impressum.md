@@ -18,7 +18,7 @@ Seilerstr. 40
 20359 Hamburg
 
 # Kontakt:
-
+Wenn Sie auf Kleinanzeigen oder über Paypal begrogen wurden, wenden Sie sich bitte direkt an die Polizei und Paypal. Ich bin nicht beteiligt und mein Name wurde lediglich als Täuschung benutzt. Die unten stehende Adresse dient nur für geschäftliche, technische und rechtliche Anfragen.
 E-Mail: mba@vernetztesarbeiten.de
 
 # Umsatzsteuer-ID:
