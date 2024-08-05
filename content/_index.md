@@ -38,12 +38,12 @@ Software-Einführungen, Agile Methoden und Führung, digitale Zusammenarbeit, Co
 Immer wieder habe ich mich mit großen Interesse in Projekten mit Technologien und IT-Infrastruktur beschäftigt, die die Grundlage für große Kollaborations- und Wissensmanagement-Plattformen bilden. Diese technischen Grundlagen bieten Teams und Organisationen die Grundlage für moderne Methoden und agile Zusammenarbeit bereit. Sie machen die Veränderungen in großen Unternehmen möglich und befähigen die Organisationsentwicklung, die Unternehmenskultur und -struktur weiter zu entwickeln. 
 Im großen Rahmen haben mich diese Themen auch im Bereich des  e-Government beschäftigt, wenn es um Open Data, digitale Souveränität und die Umsetzung 
 
-
+{{/*
 ![Die Elbkräne und ein Schlepper](/images/_DSF3641_spacer.jpg#center)
 
 
 # Kontakt aufnehmen!
 
 Erste Ideen bekommen, Neugierig geworden oder offene Fragen? Nehmen Sie Kontakt auf – über [Xing](https://www.xing.com/profile/Martin_BrinkAbeler), [LinkedIn](https://www.linkedin.com/in/brinkabeler), [Twitter](https://www.twitter.com/brinkabeler) oder mit einer Mail an [mba@vernetztesarbeiten.de](mailto:mba@vernetztesarbeiten.de)!
-
+*/}}
 ![Auf Kurs gehen im Hamburger Hafen](/images/_DSF3342_spacer.jpg#center)
