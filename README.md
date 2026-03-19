@@ -1,4 +1,6 @@
-# My professional Homepage
+# This was once professional Homepage
+
+Deprecated and now build on my machine.
 
 Build here for fun and profit, literally.
 
